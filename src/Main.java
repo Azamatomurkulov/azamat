@@ -3,5 +3,6 @@ public class Main{
         System.out.println("Hello");
         System.out.println("have committed");
         System.out.println("this is just for repository");
+        System.out.println("just for git");
     }
 }
